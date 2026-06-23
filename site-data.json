@@ -2,26 +2,26 @@
   "business": {
     "name": "Randall's Landscaping",
     "shortName": "Randall's",
-    "tagline": "Transform Your Outdoor Space with Dallas’s Trusted Landscaping Experts",
+    "tagline": "Elevating Dallas Landscapes with Precision and Care",
     "niche": "Landscaper / Lawn Care",
     "phone": "(469) 987-8797",
     "address": "425 N Rosemont Ave Apt 214, Dallas, TX 75208",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 4:00 PM, Sun Closed",
+    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm",
     "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Randall's Landscaping | Top-Rated Landscaper in Dallas, TX",
-    "description": "Randall's Landscaping offers professional lawn care, landscape design, hardscaping, and tree services in Dallas, TX. Transform your outdoor space with our expert team. Call (469) 987-8797 for a free quote."
+    "title": "Randall's Landscaping | Expert Lawn Care & Landscape Design in Dallas, TX",
+    "description": "Randall's Landscaping offers premium lawn care, landscape design, and hardscaping in Dallas, TX. Transform your outdoor space with our expert team. Call (469) 987-8797 for a free quote."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Landscaping Company",
-      "headline": "Create the Yard of Your Dreams with Randall's Landscaping",
-      "subheadline": "From lawn maintenance to stunning hardscapes, we bring your vision to life with quality, reliability, and a personal touch.",
+      "eyebrow": "Dallas's Trusted Landscaping Professionals",
+      "headline": "Your Outdoor Oasis Starts Here",
+      "subheadline": "From lush lawns to stunning hardscapes, we design, build, and maintain landscapes that impress.",
       "primaryCta": "Get a Free Quote",
-      "secondaryCta": "View Our Services"
+      "secondaryCta": "See Our Work"
     },
     "stats": [
       {
@@ -30,127 +30,127 @@
       },
       {
         "value": "500+",
-        "label": "Happy Clients"
-      },
-      {
-        "value": "98%",
-        "label": "Satisfaction Rate"
+        "label": "Projects Completed"
       },
       {
         "value": "4.9",
         "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Client Satisfaction"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Design",
-        "title": "Landscape Design & Installation Tailored to You",
-        "body": "Our team works closely with you to design and install a landscape that reflects your style and enhances your property. From plant selection to layout, we handle every detail.",
+        "eyebrow": "Custom Landscape Design",
+        "title": "Design That Reflects Your Style",
+        "body": "Our team collaborates with you to create a landscape that matches your vision and complements your home. From concept to completion, we handle every detail.",
         "bullets": [
           "Personalized design consultations",
-          "Native & drought-tolerant plants",
-          "Irrigation & drainage solutions"
+          "3D renderings to visualize your space",
+          "Plant selection tailored to Dallas climate"
         ],
         "reverse": false,
-        "cardLabel": "Featured",
-        "cardTitle": "Complete Lawn Care",
-        "cardBody": "Keep your lawn lush and green with our weekly mowing, fertilization, weed control, and aeration services."
+        "cardLabel": "Design Process",
+        "cardTitle": "From Vision to Reality",
+        "cardBody": "We start with a thorough consultation, then craft a detailed plan that balances beauty, functionality, and sustainability."
       },
       {
-        "eyebrow": "Hardscaping",
-        "title": "Stunning Patios, Walkways & More",
-        "body": "Enhance your outdoor living space with custom hardscaping. We build patios, retaining walls, fire pits, and pathways that add beauty and function to your yard.",
+        "eyebrow": "Premium Hardscaping",
+        "title": "Built to Last, Designed to Wow",
+        "body": "Enhance your outdoor living with patios, walkways, retaining walls, and more. Our skilled craftsmen use top-quality materials for durable, stunning results.",
         "bullets": [
-          "Custom stone & concrete work",
-          "Outdoor kitchens & fire features",
-          "Permeable pavers for eco-friendly drainage"
+          "Natural stone and pavers",
+          "Custom fire pits and outdoor kitchens",
+          "Drainage solutions to protect your investment"
         ],
         "reverse": true,
-        "cardLabel": "Popular",
-        "cardTitle": "Tree & Shrub Care",
-        "cardBody": "Pruning, removal, and health assessments to keep your trees and shrubs thriving year-round."
+        "cardLabel": "Hardscaping",
+        "cardTitle": "Outdoor Living Redefined",
+        "cardBody": "Create an extension of your home with features that add value and enjoyment for years to come."
       }
     ],
     "whyTitle": "Why Choose Randall's Landscaping?",
     "whyChooseUs": [
       {
-        "title": "Experienced & Certified Team",
-        "description": "Our crew brings years of hands-on experience and industry certifications, ensuring every project meets the highest standards."
+        "title": "Local Expertise",
+        "description": "We know Dallas soil, climate, and native plants, ensuring your landscape thrives year-round."
       },
       {
-        "title": "Quality Materials & Equipment",
-        "description": "We use top-grade materials and modern equipment to deliver durable, beautiful results that last."
+        "title": "Quality Craftsmanship",
+        "description": "Every project is executed with precision, using premium materials and proven techniques."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No hidden fees or surprises. We provide detailed quotes upfront and stick to them."
+        "title": "Reliable & Punctual",
+        "description": "We respect your time and property, showing up on schedule and cleaning up thoroughly."
       },
       {
-        "title": "Customer-First Approach",
-        "description": "Your satisfaction is our priority. We listen, communicate, and go the extra mile to exceed your expectations."
+        "title": "Full-Service Care",
+        "description": "From design to maintenance, we offer comprehensive solutions for all your landscaping needs."
       }
     ],
     "testimonials": [
       {
-        "quote": "Randall's transformed our overgrown backyard into a beautiful oasis. The team was professional, punctual, and the results exceeded our expectations.",
-        "author": "Sarah M.",
-        "role": "Homeowner in Lakewood"
+        "quote": "Randall's transformed our backyard into a paradise. The attention to detail was incredible, and the team was a pleasure to work with.",
+        "author": "Jessica M.",
+        "role": "Lakewood Homeowner"
       },
       {
-        "quote": "We hired Randall's for a complete landscape redesign and couldn't be happier. They listened to our ideas and brought them to life perfectly.",
-        "author": "James T.",
-        "role": "Homeowner in Preston Hollow"
+        "quote": "Professional, efficient, and creative. Our new patio and fire pit are the talk of the neighborhood.",
+        "author": "Tom R.",
+        "role": "M Streets Resident"
       },
       {
-        "quote": "Excellent lawn care service! Our grass has never looked greener. Reliable, affordable, and always friendly.",
-        "author": "Maria L.",
-        "role": "Homeowner in Oak Lawn"
+        "quote": "They maintain our lawn weekly and it has never looked better. Highly recommend for reliable service.",
+        "author": "Linda K.",
+        "role": "Oak Lawn Client"
       }
     ],
     "cta": {
-      "headline": "Ready to Transform Your Outdoor Space?",
-      "subheadline": "Contact us today for a free consultation and quote.",
-      "primaryCta": "Call (469) 987-8797",
-      "secondaryCta": "Get a Free Quote"
+      "headline": "Ready to Transform Your Landscape?",
+      "subheadline": "Contact us today for a free consultation and estimate.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (469) 987-8797"
     }
   },
   "servicesPage": {
-    "intro": "At Randall's Landscaping, we offer a full range of landscaping services to keep your property looking its best. From routine lawn care to custom hardscaping, our team has the skills and experience to handle projects of any size."
+    "intro": "At Randall's Landscaping, we offer a full range of landscaping services to enhance your Dallas property. Whether you need routine lawn care or a complete landscape overhaul, our team delivers exceptional results."
   },
   "services": [
     {
       "icon": "01",
       "title": "Lawn Care & Maintenance",
-      "shortDescription": "Regular mowing, fertilization, weed control, and aeration to keep your lawn healthy and vibrant.",
-      "longDescription": "Our comprehensive lawn care program is designed to give you a lush, green lawn without the hassle. We handle mowing, edging, fertilization, weed control, aeration, and overseeding. Our team uses eco-friendly products and follows best practices to promote deep root growth and disease resistance. Whether you need weekly maintenance or a one-time treatment, we tailor our services to your lawn's specific needs.",
+      "shortDescription": "Keep your lawn lush and healthy with our comprehensive maintenance programs.",
+      "longDescription": "Our lawn care services include mowing, fertilization, weed control, aeration, and seasonal cleanups. We tailor schedules to your lawn's needs, ensuring vibrant growth year-round.",
       "benefits": [
-        "Consistent, professional care every visit",
-        "Customized fertilization schedules for Dallas soil",
-        "Weed-free lawn without harsh chemicals",
-        "Improved curb appeal and property value"
+        "Consistent, professional mowing",
+        "Fertilization and weed control",
+        "Seasonal aeration and overseeding",
+        "Leaf removal and debris cleanup"
       ],
       "process": [
         {
-          "title": "Initial Assessment",
-          "description": "We evaluate your lawn's condition, soil type, and any problem areas to create a personalized care plan."
+          "title": "Assessment",
+          "description": "We evaluate your lawn's condition and discuss your goals."
         },
         {
-          "title": "Regular Service Visits",
-          "description": "Our crew visits on a set schedule to mow, edge, and apply treatments as needed."
+          "title": "Custom Plan",
+          "description": "We create a maintenance schedule tailored to your lawn."
         },
         {
-          "title": "Seasonal Adjustments",
-          "description": "We adjust our approach with the seasons, including aeration in spring and overseeding in fall."
+          "title": "Ongoing Care",
+          "description": "Our team executes the plan with precision and consistency."
         }
       ],
       "faqs": [
         {
           "question": "How often should I mow my lawn?",
-          "answer": "During peak growing season, we recommend weekly mowing. We adjust frequency based on grass type and weather conditions."
+          "answer": "Typically once a week during growing season, but we adjust based on grass type and weather."
         },
         {
           "question": "Do you use organic fertilizers?",
-          "answer": "Yes, we offer both organic and synthetic options. We'll recommend the best choice for your lawn and preferences."
+          "answer": "Yes, we offer organic options upon request."
         }
       ],
       "slug": "lawn-care-maintenance"
@@ -158,149 +158,149 @@
     {
       "icon": "02",
       "title": "Landscape Design & Installation",
-      "shortDescription": "Custom designs and professional installation to create your ideal outdoor living space.",
-      "longDescription": "Our landscape design service brings your vision to life. We start with a detailed consultation to understand your style, needs, and budget. Then our designers create a custom plan featuring plant selections, hardscape elements, lighting, and irrigation. Our installation team handles everything from grading and planting to building patios and walkways. We focus on sustainable, low-maintenance designs that thrive in the Dallas climate.",
+      "shortDescription": "Transform your outdoor space with custom design and professional installation.",
+      "longDescription": "From concept to completion, we design and install landscapes that reflect your style. Our team handles plant selection, bed preparation, irrigation, and more to create a cohesive look.",
       "benefits": [
-        "Personalized design that reflects your taste",
-        "Expert plant selection for year-round color",
-        "Seamless integration of hardscape and softscape",
-        "Increased property value and enjoyment"
+        "Personalized design tailored to your property",
+        "Expert plant selection for Dallas climate",
+        "Efficient irrigation systems",
+        "Professional installation with attention to detail"
       ],
       "process": [
         {
-          "title": "Consultation & Design",
-          "description": "We meet with you to discuss ideas, take measurements, and create a 3D design concept."
+          "title": "Consultation",
+          "description": "We discuss your vision, budget, and site conditions."
         },
         {
-          "title": "Material Selection & Planning",
-          "description": "We help you choose plants, stone, and other materials, and finalize the project timeline."
+          "title": "Design",
+          "description": "We create a detailed plan and 3D renderings."
         },
         {
-          "title": "Installation & Finishing",
-          "description": "Our crew installs the design with precision, followed by a final walkthrough to ensure your satisfaction."
+          "title": "Installation",
+          "description": "Our crew brings the design to life with precision."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a typical landscape installation take?",
-          "answer": "Timelines vary based on project size. A standard residential project usually takes 1-3 weeks."
+          "question": "How long does a design project take?",
+          "answer": "Most projects take 1-3 weeks from design to installation, depending on complexity."
         },
         {
-          "question": "Do you offer maintenance after installation?",
-          "answer": "Absolutely! We provide ongoing maintenance to keep your new landscape looking its best."
+          "question": "Can you work with my existing landscape?",
+          "answer": "Absolutely. We can enhance or completely redesign your current layout."
         }
       ],
       "slug": "landscape-design-installation"
     },
     {
       "icon": "03",
-      "title": "Hardscaping",
-      "shortDescription": "Custom patios, retaining walls, walkways, and outdoor structures built to last.",
-      "longDescription": "Transform your outdoor space with beautiful, functional hardscaping. We specialize in patios, walkways, retaining walls, fire pits, outdoor kitchens, and more. Using high-quality materials like natural stone, pavers, and concrete, we create durable structures that complement your landscape. Our team handles everything from excavation to final sealing, ensuring a flawless finish.",
+      "title": "Hardscaping & Outdoor Living",
+      "shortDescription": "Build stunning patios, walkways, and outdoor features that last.",
+      "longDescription": "Enhance your outdoor living with custom hardscaping. We specialize in patios, retaining walls, walkways, fire pits, outdoor kitchens, and drainage solutions using premium materials.",
       "benefits": [
-        "Increased usable outdoor living space",
-        "Durable, low-maintenance materials",
-        "Enhanced drainage and erosion control",
-        "Custom designs to match your home's architecture"
+        "Durable, weather-resistant construction",
+        "Custom designs for any style",
+        "Increased property value",
+        "Seamless integration with your landscape"
       ],
       "process": [
         {
           "title": "Design & Planning",
-          "description": "We discuss your ideas, assess the site, and create a detailed plan with material options."
+          "description": "We create a layout that fits your space and needs."
         },
         {
           "title": "Site Preparation",
-          "description": "We excavate, grade, and prepare the base to ensure stability and proper drainage."
+          "description": "We excavate and prepare the area for construction."
         },
         {
-          "title": "Installation & Sealing",
-          "description": "Our skilled team installs the hardscape features and applies sealant for long-lasting beauty."
+          "title": "Installation",
+          "description": "Our skilled team builds your hardscape with precision."
         }
       ],
       "faqs": [
         {
-          "question": "What is the best material for a Dallas patio?",
-          "answer": "Concrete pavers and natural stone are popular for their durability and heat resistance. We'll help you choose based on your style and budget."
+          "question": "What materials do you use?",
+          "answer": "We use natural stone, pavers, concrete, and brick, sourced from top suppliers."
         },
         {
-          "question": "Do you install outdoor kitchens?",
-          "answer": "Yes, we design and install complete outdoor kitchens with counters, grills, sinks, and storage."
+          "question": "Do you offer drainage solutions?",
+          "answer": "Yes, we design and install drainage systems to protect your hardscape and property."
         }
       ],
-      "slug": "hardscaping"
+      "slug": "hardscaping-outdoor-living"
     },
     {
       "icon": "04",
-      "title": "Tree & Shrub Care",
-      "shortDescription": "Pruning, removal, and health care to keep your trees and shrubs beautiful and safe.",
-      "longDescription": "Proper tree and shrub care is essential for safety, health, and aesthetics. Our certified arborists provide pruning, trimming, removal, stump grinding, and disease management. We use industry best practices to promote strong growth and prevent damage. Whether you need a single tree pruned or an entire lot cleared, we have the equipment and expertise.",
+      "title": "Seasonal Cleanup & Tree Care",
+      "shortDescription": "Prepare your property for every season with expert cleanup and tree services.",
+      "longDescription": "Our seasonal cleanup services include leaf removal, pruning, mulching, and tree trimming. We also offer tree removal and stump grinding for safety and aesthetics.",
       "benefits": [
-        "Improved tree health and structure",
-        "Enhanced safety by removing hazardous limbs",
-        "Better sunlight and airflow for your landscape",
-        "Expert diagnosis and treatment of diseases"
+        "Thorough leaf and debris removal",
+        "Professional pruning for healthy growth",
+        "Mulching to retain moisture and suppress weeds",
+        "Safe tree removal and stump grinding"
       ],
       "process": [
         {
-          "title": "Inspection & Assessment",
-          "description": "We evaluate the health, structure, and risks of your trees and shrubs."
+          "title": "Inspection",
+          "description": "We assess your property and identify needs."
         },
         {
-          "title": "Pruning or Removal Plan",
-          "description": "We recommend a tailored plan, including pruning for shape or removal if necessary."
+          "title": "Cleanup & Pruning",
+          "description": "We remove debris, prune trees, and apply mulch."
         },
         {
-          "title": "Safe Execution & Cleanup",
-          "description": "Our crew performs the work with safety gear and equipment, leaving your property clean."
+          "title": "Final Walkthrough",
+          "description": "We ensure everything is clean and to your satisfaction."
         }
       ],
       "faqs": [
         {
-          "question": "When is the best time to prune trees?",
-          "answer": "Late winter or early spring is ideal for most trees, but we can prune at any time for safety reasons."
+          "question": "When is the best time for tree pruning?",
+          "answer": "Late winter or early spring is ideal for most trees, but we can prune year-round as needed."
         },
         {
-          "question": "Do you remove stumps after tree removal?",
-          "answer": "Yes, we offer stump grinding to remove the stump below ground level, allowing you to replant or sod."
+          "question": "Do you dispose of removed trees?",
+          "answer": "Yes, we handle all debris removal and disposal."
         }
       ],
-      "slug": "tree-shrub-care"
+      "slug": "seasonal-cleanup-tree-care"
     }
   ],
   "about": {
-    "headline": "About Randall's Landscaping",
-    "mission": "Our mission is to enhance the beauty and value of Dallas properties through exceptional landscaping services, delivered with integrity and a commitment to customer satisfaction.",
+    "headline": "Dallas's Premier Landscaping Company",
+    "mission": "To enhance the beauty and value of Dallas properties through exceptional landscaping services, built on integrity, quality, and customer satisfaction.",
     "story": [
-      "Randall's Landscaping was founded on a simple belief: every outdoor space has the potential to be a stunning retreat. What started as a small lawn care operation has grown into a full-service landscaping company serving homeowners and businesses across Dallas. Our founder, Randall, brought years of hands-on experience and a passion for creating beautiful landscapes that stand the test of time.",
-      "Today, we're proud to be a trusted name in Dallas landscaping. Our team combines traditional craftsmanship with modern techniques to deliver results that exceed expectations. We treat every property as if it were our own, paying attention to every detail and ensuring complete satisfaction. From routine maintenance to major transformations, we're here to help you love your outdoor space."
+      "Randall's Landscaping was founded with a simple mission: bring professionalism and artistry to outdoor spaces in Dallas. What started as a small lawn care operation has grown into a full-service landscaping company known for its attention to detail and reliable service. Our founder, Randall, believed that every property deserves a landscape that inspires, and that belief still drives us today.",
+      "Over the years, we've had the privilege of transforming hundreds of yards, from cozy bungalows in Lakewood to sprawling estates in Preston Hollow. Our team of skilled designers, horticulturists, and craftsmen work together to deliver results that exceed expectations. We're proud to be a part of the Dallas community and look forward to helping you create your perfect outdoor space."
     ],
     "highlight": {
-      "stat": "15+",
-      "label": "Years of Excellence"
+      "stat": "500+",
+      "label": "Happy Clients Served"
     },
     "coreValues": [
       {
-        "title": "Quality Craftsmanship",
-        "description": "We take pride in our work and never cut corners. Every project is completed to the highest standards."
+        "title": "Integrity",
+        "description": "We do what we say, using quality materials and honest practices."
       },
       {
-        "title": "Reliability",
-        "description": "We show up on time, communicate clearly, and deliver on our promises."
+        "title": "Excellence",
+        "description": "We strive for perfection in every project, no matter the size."
       },
       {
         "title": "Sustainability",
-        "description": "We prioritize eco-friendly practices, from water-wise plants to responsible waste disposal."
+        "description": "We promote eco-friendly practices, from native plants to efficient irrigation."
       },
       {
         "title": "Community",
-        "description": "We're proud to serve our Dallas neighbors and give back whenever we can."
+        "description": "We support local businesses and give back to the neighborhoods we serve."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Randall's Landscaping",
-    "subheadline": "Ready to start your project? Call us or fill out the form for a free consultation.",
-    "primaryCta": "Call (469) 987-8797",
+    "headline": "Let's Create Something Beautiful Together",
+    "subheadline": "Ready to get started? Reach out for a free consultation and estimate.",
+    "primaryCta": "Get a Free Quote",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
@@ -310,11 +310,11 @@
       "Preston Hollow",
       "Oak Lawn",
       "Uptown",
-      "East Dallas"
+      "M Streets"
     ]
   },
   "social_proof": {
-    "rating": 3.7,
+    "rating": "",
     "reviews": null
   },
   "meta": {
